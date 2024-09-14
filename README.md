@@ -3,6 +3,7 @@
 ### Overview
 
 This project demonstrates **Inter-VLAN Routing** using Cisco Packet Tracer. The lab is designed to showcase how to configure VLANs on switches and routers to enable communication between devices across different VLANs. The goal is to familiarize users with VLAN configuration, router-on-a-stick setup, and effective communication between VLANs.
+<img src= "https://github.com/ro-drick/Inter-VLAN-Routing/blob/main/inter-vlan-routing.PNG">
 
 ### Lab Details
 
